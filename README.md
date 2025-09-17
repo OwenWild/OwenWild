@@ -20,7 +20,7 @@ When I’m not coding, you can find me enjoying the Adirondacks, skiing at Gore 
 ## 📨 Contact Me
 
  - Email: wildow@clarkson.edu
- - Website: Updating
+ - Website (*PC SALES*): Owengalaxy.xyz
  - LinkedIn: https://www.linkedin.com/in/owen-wild/
  - Resume: [View my resume](https://github.com/OwenWild/OwenWild/blob/main/Resume9_2025.pdf)
 
