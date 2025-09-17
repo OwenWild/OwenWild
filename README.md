@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**OwenWild/OwenWild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # Hi, I'm Owen
 
@@ -29,8 +13,8 @@ When I’m not coding, you can find me enjoying the Adirondacks, skiing at Gore 
 
 ## ⚡ My Toolbox
 
-- **Programming Languages**: C++, Go, Python, Rust, Java, TypeScript, VHDL
-- **Frameworks**: Astro, Cypress, Express, Gin, Jest, Puppeteer, Vue
+- **Programming Languages**: C++, Java, JavaScript, VHDL, MATLAB, HTML, SPICE
+- **Software**: Visual Studio Code, Linux, Matlab, Quartus, Microsoft Excel, XCode, Pycharm
 - **DevOps**: CI/CD, Docker, Git, Kubernetes
 
 ## 📨 Contact Me
