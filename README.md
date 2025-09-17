@@ -38,24 +38,6 @@ When I’m not coding, you can find me enjoying the Adirondacks, skiing at Gore 
  - Email: wildow@clarkson.edu
  - Website: Updating
  - LinkedIn: https://www.linkedin.com/in/owen-wild/
- - Resume: [View my resume](https://github.com/owenwild/Resume9_2025)
+ - Resume: [View my resume](https://github.com/OwenWild/OwenWild/blob/main/Resume9_2025.pdf)
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/servusdei2018/servusdei2018/blob/main/metrics.classic.svg">
-    </td>
-    <td align="center">
-      <img src="https://github.com/servusdei2018/servusdei2018/blob/main/metrics.plugin.achievements.svg">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/servusdei2018/servusdei2018/blob/main/metrics.plugin.languages.svg">
-    </td>
-    <td align="center">
-      <img src="https://github.com/servusdei2018/servusdei2018/blob/main/metrics.plugin.reactions.svg">
-    </td>
-  </tr>
-</table>
-<a href="https://holopin.io/@servusdei2018"><img src="https://holopin.io/api/user/board?user=servusdei2018"></a>
+
