@@ -13,9 +13,8 @@ When I’m not coding, you can find me enjoying the Adirondacks, skiing at Gore 
 
 ## ⚡ My Toolbox
 
-- **Programming Languages**: C++, Java, JavaScript, VHDL, MATLAB, HTML, SPICE
-- **Software**: Visual Studio Code, Linux, Matlab, Quartus, Microsoft Excel, XCode, Pycharm
-- **DevOps**: CI/CD, Docker, Git, Kubernetes
+- **Programming Languages**: C++, Typescript, React, Python, Java, JavaScript, VHDL, MATLAB, HTML, SPICE
+- **Software**: Visual Studio Code, Linux, Matlab, Vivado, Quartus, Microsoft Excel, XCode, Pycharm
 
 ## 📨 Contact Me
 
