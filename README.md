@@ -7,9 +7,9 @@
 
 ## 🔭 About Me
 
-I'm a Computer Science and Computer Engineering student at Clarkson University, with a passion for working with computers, and a growing passion for the silicon level microelectronics side. 
+I'm a Computer Science and Computer Engineering student at Clarkson University, with a passion for working with computers, full stack development, and machine learning. 
 
-When I’m not coding, you can find me enjoying the Adirondacks, skiing at Gore and Whiteface, or climbing the [46 peaks](https://adk46er.org/).
+When I’m not coding, you can find me cycling [following the rules](https://www.velominati.com/), skiing at Gore and Whiteface, or climbing the [46 peaks](https://adk46er.org/).
 
 ## ⚡ My Toolbox
 
