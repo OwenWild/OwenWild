@@ -21,6 +21,7 @@ When I’m not coding, you can find me cycling [following the rules](https://www
  - Email: wildow@clarkson.edu
  - Current Project (*Multi-Flight Search*): https://multiflights.shop
  - LinkedIn: https://www.linkedin.com/in/owen-wild/
+ - Check out my web portfolio : https://owenwild.org/
  - Resume: [View my resume](https://github.com/OwenWild/OwenWild/blob/main/Resume2_17_26.pdf)
 
 
